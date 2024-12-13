@@ -1,2 +1,3 @@
 ﻿# Fragrance-Club
  I created a frontend website called "Fragrance Club" using HTML, CSS, and JavaScript. The website serves as an online platform for fragrance enthusiasts, offering a user-friendly interface to explore various perfume collections. The design focuses on a clean, modern layout with responsive features, ensuring compatibility across devices. I used HTML for structuring the content, CSS for styling the pages with a sleek color palette, and JavaScript to implement interactive elements such as image sliders and form validations. The website includes sections for product categories, user reviews, and a shopping cart feature, making it a complete, functional platform for fragrance lovers.
+<h2>Important message: The code is compiled in one source code.</h2>
